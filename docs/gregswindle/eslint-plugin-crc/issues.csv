@@ -1,0 +1,70 @@
+url,repository_url,labels_url,comments_url,events_url,html_url,id,number,title,user.login,user.id,user.avatar_url,user.gravatar_id,user.url,user.html_url,user.followers_url,user.following_url,user.gists_url,user.starred_url,user.subscriptions_url,user.organizations_url,user.repos_url,user.events_url,user.received_events_url,user.type,user.site_admin,labels.id,labels.url,labels.name,labels.color,labels.default,labels.description,state,locked,assignee,milestone,comments,created_at,updated_at,closed_at,author_association,pull_request.url,pull_request.html_url,pull_request.diff_url,pull_request.patch_url,body
+https://api.github.com/repos/gregswindle/eslint-plugin-crc/issues/252,https://api.github.com/repos/gregswindle/eslint-plugin-crc,https://api.github.com/repos/gregswindle/eslint-plugin-crc/issues/252/labels{/name},https://api.github.com/repos/gregswindle/eslint-plugin-crc/issues/252/comments,https://api.github.com/repos/gregswindle/eslint-plugin-crc/issues/252/events,https://github.com/gregswindle/eslint-plugin-crc/pull/252,303602246,252,Update eslint-plugin-promise to the latest version,greenkeeper[bot],23040076,https://avatars3.githubusercontent.com/in/505?v=4,,https://api.github.com/users/greenkeeper%5Bbot%5D,https://github.com/apps/greenkeeper,https://api.github.com/users/greenkeeper%5Bbot%5D/followers,https://api.github.com/users/greenkeeper%5Bbot%5D/following{/other_user},https://api.github.com/users/greenkeeper%5Bbot%5D/gists{/gist_id},https://api.github.com/users/greenkeeper%5Bbot%5D/starred{/owner}{/repo},https://api.github.com/users/greenkeeper%5Bbot%5D/subscriptions,https://api.github.com/users/greenkeeper%5Bbot%5D/orgs,https://api.github.com/users/greenkeeper%5Bbot%5D/repos,https://api.github.com/users/greenkeeper%5Bbot%5D/events{/privacy},https://api.github.com/users/greenkeeper%5Bbot%5D/received_events,Bot,false,614010420,https://api.github.com/repos/gregswindle/eslint-plugin-crc/labels/greenkeeper,greenkeeper,c2c2c2,false,,open,false,,,0,2018-03-08T19:29:59Z,2018-03-08T19:30:35Z,,NONE,https://api.github.com/repos/gregswindle/eslint-plugin-crc/pulls/252,https://github.com/gregswindle/eslint-plugin-crc/pull/252,https://github.com/gregswindle/eslint-plugin-crc/pull/252.diff,https://github.com/gregswindle/eslint-plugin-crc/pull/252.patch,"
+Greenkeeper’s [updated Terms of Service](https://mailchi.mp/ebfddc9880a9/were-updating-our-terms-of-service) will come into effect on April 6th, 2018.
+
+## Version **3.7.0** of [eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise) was just published.
+
+<table>
+  <tr>
+    <th align=left>
+      Dependency
+    </td>
+    <td>
+      eslint-plugin-promise
+    </td>
+  </tr>
+  <tr>
+    <th align=left>
+      Current Version
+    </td>
+    <td>
+      3.6.0
+    </td>
+  </tr>
+  <tr>
+    <th align=left>
+      Type
+    </td>
+    <td>
+      devDependency
+    </td>
+  </tr>
+</table>
+
+The version **3.7.0** is **not covered** by your **current version range**.
+
+If you don’t accept this pull request, your project will work just like it did before. However, you might be missing out on a bunch of new features, fixes and/or performance improvements from the dependency update.
+
+It might be worth looking into these changes and trying to get this project onto the latest version of eslint-plugin-promise.
+
+If you have a solid test suite and good coverage, a passing build is a strong indicator that you can take advantage of these changes directly by merging the proposed change into your project. If the build fails or you don’t have such unconditional trust in your tests, this branch is a great starting point for you to work on the update.
+
+
+---
+
+
+
+
+<details>
+  <summary>FAQ and help</summary>
+
+  There is a collection of [frequently asked questions](https://greenkeeper.io/faq.html). If those don’t help, you can always [ask the humans behind Greenkeeper](https://github.com/greenkeeperio/greenkeeper/issues/new).
+</details>
+
+
+---
+
+
+Your [Greenkeeper](https://greenkeeper.io) bot :palm_tree:
+
+"
+https://api.github.com/repos/gregswindle/eslint-plugin-crc/issues/251,https://api.github.com/repos/gregswindle/eslint-plugin-crc,https://api.github.com/repos/gregswindle/eslint-plugin-crc/issues/251/labels{/name},https://api.github.com/repos/gregswindle/eslint-plugin-crc/issues/251/comments,https://api.github.com/repos/gregswindle/eslint-plugin-crc/issues/251/events,https://github.com/gregswindle/eslint-plugin-crc/pull/251,303406373,251,build: bump mocha from 5.0.0 to 5.0.4,dependabot[bot],27856297,https://avatars3.githubusercontent.com/in/2141?v=4,,https://api.github.com/users/dependabot%5Bbot%5D,https://github.com/apps/dependabot,https://api.github.com/users/dependabot%5Bbot%5D/followers,https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user},https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id},https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo},https://api.github.com/users/dependabot%5Bbot%5D/subscriptions,https://api.github.com/users/dependabot%5Bbot%5D/orgs,https://api.github.com/users/dependabot%5Bbot%5D/repos,https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy},https://api.github.com/users/dependabot%5Bbot%5D/received_events,Bot,false,740712067,https://api.github.com/repos/gregswindle/eslint-plugin-crc/labels/dependencies,dependencies,0025ff,false,,open,false,,,0,2018-03-08T09:12:03Z,2018-03-08T09:12:03Z,,NONE,https://api.github.com/repos/gregswindle/eslint-plugin-crc/pulls/251,https://github.com/gregswindle/eslint-plugin-crc/pull/251,https://github.com/gregswindle/eslint-plugin-crc/pull/251.diff,https://github.com/gregswindle/eslint-plugin-crc/pull/251.patch,"Bumps [mocha](https://github.com/mochajs/mocha) from 5.0.0 to 5.0.4.
+- [Release notes](https://github.com/mochajs/mocha/releases)
+- [Changelog](https://github.com/mochajs/mocha/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/mochajs/mocha/compare/v5.0.0...v5.0.4)
+
+[![Dependabot compatibility score](https://api.dependabot.com/badges/ci_status?dependency-name=mocha&package-manager=npm_and_yarn&previous-version=5.0.0&new-version=5.0.4)](https://dependabot.com/compatibility-score.html?dependency-name=mocha&package-manager=npm_and_yarn&previous-version=5.0.0&new-version=5.0.4)
+
+Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting @dependabot rebase.
+
+If you'd like to skip this version, you can just close this PR. If you have any feedback just mention @dependabot in the comments below."
